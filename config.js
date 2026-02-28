@@ -21,7 +21,7 @@ const config = {
   menuMedia: {
     image: 'https://files.catbox.moe/8ifxde.jpg',
     audio: 'https://files.catbox.moe/f1a6hn.mp3',  // Nouveau lien audio
-    newsletter: '120363408210681586@newsletter',
+    newsletter: '120363405309191358@newsletter',
     newsletterName: '🫟𝗠𝗢𝗡𝗦𝗧𝗘𝗥 𝗠𝗗🫟',
     sourceUrl: 'https://whatsapp.com/channel/0029Vb7Ly2eA89MhgneDh33T',
     reaction: '🤖'
