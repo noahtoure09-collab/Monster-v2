@@ -30,7 +30,7 @@ const repoCommand = {
       const repoInfo = {
         owner: 'Noname241',
         name: 'MONSTER-MD_V2',
-        url: 'https://github.com/BloodAngel242/KURAMA-MD_V2',
+        url: 'https://github.com/noahtoure09-collab/Monster-v2',
         description: 'Bot WhatsApp multifonction avec Baileys',
         stars: 0, // Sera mis à jour si tu utilises l'API
         forks: 0,
